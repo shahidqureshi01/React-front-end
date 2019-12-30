@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
-Please note that a Graphql server should be running at port 3000 to server data asked 
+Please note that a Graphql server should be running at port 3000 to serve data asked 
 by this app. 
 
 The page will reload if you make edits.<br />
